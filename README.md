@@ -24,3 +24,17 @@ Projeto referente ao Primeiro challenge da turma 07 ONE, um projeto que desenvol
 
 - Criptografia: `"gato"` se torna `"gaitober"`
 - Descriptografia: `"gaitober"` volta a ser `"gato"`
+
+## 🛠️ Tecnologias Utilizadas
+
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML Logo" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS Logo" width="50" height="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript Logo" width="50" height="50"/>
+</div>
+
+- **HTML5**: Estrutura da página.
+- **CSS3**: Estilização e layout.
+- **JavaScript**: Lógica de criptografia e interação.
+
+
